@@ -87,3 +87,8 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 - Enhanced Cybersecurity Capabilities
   - Proficiency in creating efficient workflows and automated responses, improving overall security posture and operational efficiency.
+
+## Acknowledgements
+- [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+- Sysmon config inspired from [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
+- SOC Project Lab inspired from [MyDFIR](https://github.com/MyDFIR/)
