@@ -23,3 +23,15 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Automating alerts and notifications to analysts thru a Email/Discord channel
   - Utilizing VirusTotal for hash and IP address reputation checks
   - Configuring TheHive for case management
+
+### Tools Used
+
+- AWS EC2 for hosting the servers
+- Wazuh as Security Information and Event Management
+- TheHive for case management
+- Shuffle for Security Orchestration Automation and Response
+- VirusTotal for enrichment
+- Discord
+- Sysmon
+
+## Lab Information
