@@ -44,7 +44,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 ### Lab Hosts
 
-- AWS EC2
+- AWS EC2 Instance
   - Ubuntu 22.04 LTS
     - Wazuh
     - TheHive
@@ -53,6 +53,10 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Simulates employee workstation
   - Sysmon  
   - Wazuh agent (Forwards Sysmon logs)
+- Ubuntu 22.04 LTS
+  - Simulates employee workstation
+  - Wazuh agent
+  - SSH server installed (to simulate SSH bruteforce attack)
 
 - Checking network connectivity on hosts
 <p align="center">
