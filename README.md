@@ -26,13 +26,13 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 ### Tools Used
 
-- AWS EC2 for hosting the servers
-- Wazuh as Security Information and Event Management
-- TheHive for case management
-- Shuffle for Security Orchestration Automation and Response
-- VirusTotal for enrichment
-- Discord
-- Sysmon
+- AWS EC2. Provides scalable computing capacity for applications and workloads. It is utilized for hosting servers.
+- Wazuh. Offers security visibility into endpoints by monitoring their behavior and identifying threats, vulnerabilities, and anomalies.
+- TheHive. A versatile security incident response tool, simplifies the creation, management, and analysis of security incidents.
+- Shuffle. Automation for Security Orchestration Automation and Response.
+- VirusTotal. Analyzes suspicious files and URLs for malware and malicious content using antivirus engines and website scanners.
+- Discord. Used to send notifications to analysts, prompting them to investigate incidents further.
+- Sysmon. Track and record system activity in the Windows event log.
 
 ## Lab Information
 
