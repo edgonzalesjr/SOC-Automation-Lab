@@ -42,6 +42,12 @@ To develop and configure a comprehensive Security Operations Center automation e
 <b>Network Diagram</b>
 <br/>
 
+<p align="center">
+<img src="https://imgur.com/wivv3MM.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Workflow</b>
+<br/>
+
 ### Lab Hosts
 
 - AWS EC2 Instance
