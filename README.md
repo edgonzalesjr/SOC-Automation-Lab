@@ -10,3 +10,16 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 - Server Configuration and Connectivity
   - Configuring Wazuh, Shuffle, and TheHive
+  - Connecting Windows 10 client to Wazuh and verifying service status
+
+- Telemetry Ingestion and Threat Detection
+  - Configuring telemetry ingestion from Windows 10 client to Wazuh
+  - Setting up Sysmon and editing configuration files for log collection
+  - Creating custom alerts and managing detection for specific threats (e.g., Mimikatz)
+  - Restarting services and verifying alert functionality
+
+- Integration and Automation
+  - Integrating Wazuh, TheHive and Shuffle for automated incident response
+  - Automating alerts and notifications to analysts thru a Email/Discord channel
+  - Utilizing VirusTotal for hash and IP address reputation checks
+  - Configuring TheHive for case management
