@@ -96,9 +96,15 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/HDXm454.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/AIpiO93.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Ubuntu server connectivity with the Wazuh Manager</b>
+<b>Shuffle for Windows 10 client</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/VtjtNtx.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Shuffle for Ubuntu server</b>
 <br/>
 
 - Generate traffic
