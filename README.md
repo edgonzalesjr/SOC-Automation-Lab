@@ -30,7 +30,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 - Wazuh. Offers security visibility into endpoints by monitoring their behavior and identifying threats, vulnerabilities, and anomalies.
 - TheHive. A versatile security incident response tool, simplifies the creation, management, and analysis of security incidents.
 - Shuffle. Automation for Security Orchestration Automation and Response.
-- VirusTotal. Analyzes suspicious files and URLs for malware and malicious content using antivirus engines and website scanners.
+- VirusTotal. Analyzes suspicious files, hash, IP address for malware and malicious content using antivirus engines and website scanners.
 - Discord. Used to send notifications to analysts, prompting them to investigate incidents further.
 - Sysmon. Track and record system activity in the Windows event log.
 
