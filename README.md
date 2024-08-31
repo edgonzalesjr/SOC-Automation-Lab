@@ -37,7 +37,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 ## Lab Information
 
 <p align="center">
-<img src="https://imgur.com/VUDviOE.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/QAirGBH.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Network Diagram</b>
 <br/>
