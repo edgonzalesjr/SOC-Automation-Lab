@@ -44,10 +44,11 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 ### Lab Hosts
 
-- Ubuntu 22.04 LTS
-  - Wazuh
-  - TheHive
-  - Shuffle
+- AWS EC2
+  - Ubuntu 22.04 LTS
+    - Wazuh
+    - TheHive
+    - Shuffle
 - Windows 10 Eval
   - Simulates employee workstation
   - Sysmon  
