@@ -54,7 +54,7 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Sysmon  
   - Wazuh agent (Forwards Sysmon logs)
 - Ubuntu 22.04 LTS
-  - Simulates employee workstation
+  - Simulates as a on-prem server
   - Wazuh agent
   - SSH server installed (to simulate SSH bruteforce attack)
 
