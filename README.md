@@ -74,4 +74,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <b>Splunk Event Code 4625. Failed RDP login attempt</b>
 <br/>
 
+## Outcome
 
+- Comprehensive SOC Automation Setup
+  - Successful creation and integration of a SOC automation environment, including Wazuh for monitoring, automated workflows in Shuffle for alert management and incident response, and TheHive for case management.
