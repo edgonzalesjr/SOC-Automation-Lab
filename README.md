@@ -78,3 +78,12 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 - Comprehensive SOC Automation Setup
   - Successful creation and integration of a SOC automation environment, including Wazuh for monitoring, automated workflows in Shuffle for alert management and incident response, and TheHive for case management.
+ 
+- Practical Cybersecurity Skills
+  - Hands-on experience in installing, configuring, and integrating various cybersecurity tools, enhancing proficiency in SOC operations.
+
+- Effective Threat Detection and Response
+  - Ability to configure and utilize telemetry for monitoring, detect specific threats through custom alerts, and automate incident response actions.
+
+- Enhanced Cybersecurity Capabilities
+  - Proficiency in creating efficient workflows and automated responses, improving overall security posture and operational efficiency.
