@@ -72,9 +72,15 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/2RL3LMR.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Wazuh Manager dashboards agens status</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/HDXm454.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Server IP Address and status is running</b>
+<b>Windows 10 client could reach the Wazuh Manager</b>
 <br/>
 
 - Generate traffic
