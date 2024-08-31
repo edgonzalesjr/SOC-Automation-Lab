@@ -68,7 +68,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/YYx7MqU.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>AWS EC2 Instace state is running</b>
+<b>AWS EC2 Instace state are running</b>
 <br/>
 
 <p align="center">
@@ -78,9 +78,21 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/vIrIMux.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Windows 10 client connectivity with the Wazuh Manager</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/fJbOWjx.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Ubuntu server connectivity with the Wazuh Manager</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/HDXm454.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows 10 client could reach the Wazuh Manager</b>
+<b>Ubuntu server connectivity with the Wazuh Manager</b>
 <br/>
 
 - Generate traffic
