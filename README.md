@@ -90,6 +90,12 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/wlj9xEB.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>TheHive is running</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/HDXm454.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Ubuntu server connectivity with the Wazuh Manager</b>
