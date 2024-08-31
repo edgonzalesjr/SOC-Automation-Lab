@@ -59,3 +59,19 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 <b>Splunk Server IP Address and status is running</b>
 <br/>
+
+- Generate traffic
+<p align="center">
+<img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Attacker's machine in a failed RDP login attempt</b>
+<br/>
+
+- SIEM's log ingestion and analysis
+<p align="center">
+<img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Splunk Event Code 4625. Failed RDP login attempt</b>
+<br/>
+
+
