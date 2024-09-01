@@ -109,7 +109,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 - Generate traffic
 <p align="center">
-<img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/IQw0LYs.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Windows client Mimikatz was executed</b>
 <br/>
