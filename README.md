@@ -122,13 +122,10 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 - Server ingestion, analysis and alerts
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/FSCN2wU.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Wazuh Manager on Mimikatz detection</b>
-<br/>
-
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/8qH28ve.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Wazuh Manager on Mimikatz detection</b>
 <br/>
