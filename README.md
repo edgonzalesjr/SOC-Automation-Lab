@@ -111,14 +111,44 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/66kVQSi.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine in a failed RDP login attempt</b>
+<b>Windows client Mimikatz was executed</b>
 <br/>
 
-- SIEM's log ingestion and analysis
 <p align="center">
-<img src="https://imgur.com/yJS9mWp.png" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Splunk Event Code 4625. Failed RDP login attempt</b>
+<b>Attacker's machine SSH brute-force attack</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Attacker's machine SSH brute-force attack</b>
+<br/>
+
+- Server ingestion, analysis and alerts
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Wazuh Manager on Mimikatz detection</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Wazuh Manager on Mimikatz detection</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>TheHive on Mimikatz detection</b>
+<br/>
+  
+<p align="center">
+<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Shuffle on Mimikatz detection</b>
 <br/>
 
 ## Outcome
