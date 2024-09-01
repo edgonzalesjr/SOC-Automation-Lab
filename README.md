@@ -155,7 +155,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/https://i.imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/CXZXLjh.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Shuffle on SSH Brute-force detection</b>
 <br/>
