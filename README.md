@@ -131,15 +131,45 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/G0nYNc3.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Wazuh Manager on SSH Brute-force detection</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/NIGTFg8.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>TheHive on Mimikatz detection</b>
 <br/>
 
 <p align="center">
+<img src="https://imgur.com/iJooRn1.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>TheHive on SSH Brute-force detection</b>
+<br/>
+
+<p align="center">
 <img src="https://imgur.com/iCGRxKZ.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Shuffle on Mimikatz detection</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/https://i.imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Shuffle on SSH Brute-force detection</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/q4hQxPD.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Mimikatz attack notifcation is sent to analyst thru email</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/RcaEoAU.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>SSH Brute-force attack notifcation is sent to analyst thru email</b>
 <br/>
 
 ## Outcome
@@ -155,6 +185,9 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 - Enhanced Cybersecurity Capabilities
   - Proficiency in creating efficient workflows and automated responses, improving overall security posture and operational efficiency.
+
+- Encountered
+  - AWS EC2 Instance. There were cases where a shutdown was necessary, and the public IP address changed each time the system was restarted after a shutdown.
 
 ## Acknowledgements
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
