@@ -60,9 +60,14 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Sysmon  
   - Wazuh agent (Forwards Sysmon logs)
 - Ubuntu 22.04 LTS
-  - Simulates as a on-prem server
+  - On-prem server
   - Wazuh agent
-  - SSH server installed (to simulate SSH bruteforce attack)
+  - SSH server installed
+  - IP Address : 192.168.0.204
+
+- Attacker's machine
+  - Perform SSH bruteforce attack using Hydra.
+  - IP Address : 192.168.0.202
 
 - Checking network connectivity on hosts
 <p align="center">
@@ -120,7 +125,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <b>Attacker's machine SSH brute-force attack</b>
 <br/>
 
-- Server ingestion, analysis and alerts
+- Server ingestion, analysis, alerts and response
 <p align="center">
 <img src="https://imgur.com/FSCN2wU.png" height="40%" width="40%" alt="Device Specification"/>
 
@@ -157,7 +162,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/CXZXLjh.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Shuffle on SSH Brute-force detection</b>
+<b>Shuffle on SSH Brute-force detection and response</b>
 <br/>
 
 <p align="center">
@@ -170,6 +175,18 @@ To develop and configure a comprehensive Security Operations Center automation e
 <img src="https://imgur.com/RcaEoAU.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>SSH Brute-force attack notifcation is sent to analyst thru email</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/aMAD2tQ.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Linux host. Attacker's IP address was blocked</b>
+<br/>
+
+<p align="center">
+<img src="https://imgur.com/xlk4ipx.png" height="40%" width="40%" alt="Device Specification"/>
+<br/>
+<b>Attacker's machine. Connections are blocked</b>
 <br/>
 
 ## Outcome
