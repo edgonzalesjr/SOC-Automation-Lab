@@ -137,7 +137,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/iCGRxKZ.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Shuffle on Mimikatz detection</b>
 <br/>
