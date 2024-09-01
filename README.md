@@ -169,3 +169,4 @@ To develop and configure a comprehensive Security Operations Center automation e
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 - Sysmon config inspired from [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
 - SOC Automation Project Lab inspired from [MyDFIR](https://github.com/MyDFIR/SOC-Automation-Project)
+- Mimikatz from [Benjamin DELPY](https://github.com/gentilkiwi/mimikatz)
