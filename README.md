@@ -115,13 +115,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
-<br/>
-<b>Attacker's machine SSH brute-force attack</b>
-<br/>
-
-<p align="center">
-<img src="https://imgur.com/" height="40%" width="40%" alt="Device Specification"/>
+<img src="https://imgur.com/PwVRl9y.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
 <b>Attacker's machine SSH brute-force attack</b>
 <br/>
@@ -170,3 +164,4 @@ To develop and configure a comprehensive Security Operations Center automation e
 - Sysmon config inspired from [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
 - SOC Automation Project Lab inspired from [MyDFIR](https://github.com/MyDFIR/SOC-Automation-Project)
 - Mimikatz from [Benjamin DELPY](https://github.com/gentilkiwi/mimikatz)
+- Hydra from [Van Hauser-THC](https://github.com/vanhauser-thc/thc-hydra)
