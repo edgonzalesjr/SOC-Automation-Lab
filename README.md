@@ -20,7 +20,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 - Integration and Automation
   - Integrating Wazuh, TheHive and Shuffle for automated incident response
-  - Automating alerts and notifications to analysts thru a Email/Discord channel
+  - Automating alerts and notifications to analysts thru Email
   - Utilizing VirusTotal for hash and IP address reputation checks
   - Configuring TheHive for case management
 
@@ -31,7 +31,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 - TheHive. A versatile security incident response tool, simplifies the creation, management, and analysis of security incidents.
 - Shuffle. Automation for Security Orchestration Automation and Response.
 - VirusTotal. Analyzes suspicious files, hash, IP address for malware and malicious content using antivirus engines and website scanners.
-- Discord. Used to send notifications to analysts, prompting them to investigate incidents further.
+- Email. Used to send notifications to analysts, prompting them to investigate incidents further.
 - Sysmon. Track and record system activity in the Windows event log.
 
 ## Lab Information
