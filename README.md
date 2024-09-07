@@ -23,6 +23,7 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Automating alerts and notifications to analysts thru Email
   - Utilizing VirusTotal for hash and IP address reputation checks
   - Configuring TheHive for case management
+  - Implementing real-time automated actions, such as IP blocking
 
 ### Tools Used
 
