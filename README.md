@@ -74,56 +74,56 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/YYx7MqU.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>AWS EC2 Instace state are running</b>
+<b>AWS EC2 Instace state are running.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/2RL3LMR.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Wazuh Manager dashboards agents status</b>
+<b>Wazuh Manager dashboards agents status.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/vIrIMux.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows 10 client connectivity with the Wazuh Manager</b>
+<b>Windows 10 client connectivity with the Wazuh Manager.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/fJbOWjx.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Ubuntu server connectivity with the Wazuh Manager</b>
+<b>Ubuntu server connectivity with the Wazuh Manager.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/dtfeFsU.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>TheHive is running</b>
+<b>TheHive is running.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/3omDcHi.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Shuffle for Windows 10 client</b>
+<b>Shuffle for Windows 10 client.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/Bywe63L.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Shuffle for Ubuntu server</b>
+<b>Shuffle for Ubuntu server.</b>
 <br/>
 
 - Generate traffic
 <p align="center">
 <img src="https://imgur.com/IQw0LYs.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Windows client Mimikatz was executed</b>
+<b>Windows client Mimikatz was executed.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/PwVRl9y.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine SSH brute-force attack</b>
+<b>Attacker's machine SSH brute-force attack.</b>
 <br/>
 
 - Server ingestion, analysis, alerts and response
@@ -133,61 +133,61 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/8qH28ve.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Wazuh Manager on Mimikatz detection</b>
+<b>Wazuh Manager on Mimikatz detection.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/G0nYNc3.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Wazuh Manager on SSH Brute-force detection</b>
+<b>Wazuh Manager on SSH Brute-force detection.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/NIGTFg8.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>TheHive on Mimikatz detection</b>
+<b>TheHive on Mimikatz detection.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/iJooRn1.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>TheHive on SSH Brute-force detection</b>
+<b>TheHive on SSH Brute-force detection.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/iCGRxKZ.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Shuffle on Mimikatz detection</b>
+<b>Shuffle on Mimikatz detection.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/CXZXLjh.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Shuffle on SSH Brute-force detection and response</b>
+<b>Shuffle on SSH Brute-force detection and response.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/q4hQxPD.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Mimikatz attack notifcation is sent to analyst thru email</b>
+<b>Mimikatz attack notifcation is sent to analyst thru email.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/RcaEoAU.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>SSH Brute-force attack notifcation is sent to analyst thru email</b>
+<b>SSH Brute-force attack notifcation is sent to analyst thru email.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/aMAD2tQ.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Linux host. Attacker's IP address was blocked</b>
+<b>Linux host. Attacker's IP address was blocked.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/xlk4ipx.png" height="40%" width="40%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine. Connections are blocked</b>
+<b>Attacker's machine. Connections are blocked.</b>
 <br/>
 
 ## Outcome
