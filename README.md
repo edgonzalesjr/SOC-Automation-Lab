@@ -5,25 +5,25 @@ To develop and configure a comprehensive Security Operations Center automation e
 ### Skills Learned
 
 - Installation and Configuration
-  - Installation of Sysmon on Windows 10 client, Wazuh, Shuffle and TheHive
-  - Troubleshooting of installation, setup and configuration issues
+  - Installation of Sysmon on Windows 10 client, Wazuh, Shuffle and TheHive.
+  - Troubleshooting of installation, setup and configuration issues.
 
 - Server Configuration and Connectivity
-  - Configuring Wazuh, Shuffle, and TheHive
-  - Connecting Windows 10 client to Wazuh and verifying service status
+  - Configuring Wazuh, Shuffle, and TheHive.
+  - Connecting Windows 10 client to Wazuh and verifying service status.
 
 - Telemetry Ingestion and Threat Detection
-  - Configuring telemetry ingestion from Windows 10 client to Wazuh
-  - Setting up Sysmon and editing configuration files for log collection
-  - Creating custom alerts and managing detection for specific threats (e.g., Mimikatz)
-  - Restarting services and verifying alert functionality
+  - Configuring telemetry ingestion from Windows 10 client to Wazuh.
+  - Setting up Sysmon and editing configuration files for log collection.
+  - Creating custom alerts and managing detection for specific threats (e.g., Mimikatz).
+  - Restarting services and verifying alert functionality.
 
 - Integration and Automation
-  - Integrating Wazuh, TheHive and Shuffle for automated incident response
-  - Automating alerts and notifications to analysts thru Email
-  - Utilizing VirusTotal for hash and IP address reputation checks
-  - Configuring TheHive for case management
-  - Implementing real-time automated actions, such as IP blocking
+  - Integrating Wazuh, TheHive and Shuffle for automated incident response.
+  - Automating alerts and notifications to analysts thru Email.
+  - Utilizing VirusTotal for hash and IP address reputation checks.
+  - Configuring TheHive for case management.
+  - Implementing real-time automated actions, such as IP blocking.
 
 ### Tools Used
 
@@ -57,7 +57,7 @@ To develop and configure a comprehensive Security Operations Center automation e
     - TheHive
     - Shuffle
 - Windows 10 Eval
-  - Simulates employee workstation
+  - Simulates employee workstation.
   - Sysmon  
   - Wazuh agent (Forwards Sysmon logs)
 - Ubuntu 22.04 LTS
