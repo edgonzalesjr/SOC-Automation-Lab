@@ -213,3 +213,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 - SOC Automation Project Lab inspired from [MyDFIR](https://github.com/MyDFIR/SOC-Automation-Project)
 - Mimikatz from [Benjamin DELPY](https://github.com/gentilkiwi/mimikatz)
 - Hydra from [Van Hauser-THC](https://github.com/vanhauser-thc/thc-hydra)
+
+## Disclaimer
+
+This portfolio is intended for educational and ethical cybersecurity research purposes only. All projects were conducted in a controlled, personal laboratory environment. The author(s) strongly condemn any illegal or unethical use of the information or code presented here. Unauthorized access to any system is strictly forbidden. The author(s) assume no responsibility for any actions taken by third parties using this information.
