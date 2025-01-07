@@ -209,8 +209,8 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 ## Acknowledgements
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
-- Sysmon config inspired from [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
-- SOC Automation Project Lab inspired from [MyDFIR](https://github.com/MyDFIR/SOC-Automation-Project)
+- Sysmon config inspired by [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
+- SOC Automation Project Lab inspired by [MyDFIR](https://github.com/MyDFIR/SOC-Automation-Project)
 - Mimikatz from [Benjamin DELPY](https://github.com/gentilkiwi/mimikatz)
 - Hydra from [Van Hauser-THC](https://github.com/vanhauser-thc/thc-hydra)
 
