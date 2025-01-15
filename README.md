@@ -180,7 +180,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/aMAD2tQ.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Linux host. Attacker's IP address was blocked.</b>
+<b>SSH server. Attacker's IP address was blocked.</b>
 <br/>
 
 <p align="center">
