@@ -28,6 +28,8 @@ To develop and configure a comprehensive Security Operations Center automation e
 - Wazuh: Offers security visibility into endpoints by monitoring their behavior and identifying threats, vulnerabilities, and anomalies.
 - TheHive: A versatile security incident response tool, simplifies the creation, management, and analysis of security incidents.
 - Shuffle: Automation for Security Orchestration Automation and Response.
+- Ubuntu Server: Use to host the SSH server.
+- Windows 10 Eval: End-user workstation.
 - VirusTotal: Analyzes suspicious files, hash, IP address for malware and malicious content using antivirus engines and website scanners.
 - Mimikatz: It extracts passwords stored in memory on Windows machine.
 - Email: Used to send notifications to analyst, prompting to investigate incidents further.
@@ -60,7 +62,7 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Sysmon  
   - Wazuh agent (Forwards Sysmon logs)
   - IP Address : 192.168.209.142
-- Ubuntu 22.04 LTS
+- Ubuntu Server
   - On-prem server
   - Wazuh agent
   - SSH server installed
