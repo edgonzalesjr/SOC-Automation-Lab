@@ -122,7 +122,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/S8sGaWd.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Attacker's machine SSH brute-force attack.</b>
+<b>Attacker's machine perform SSH brute-force attack.</b>
 <br/>
 
 - Server ingestion, analysis, alerts and response
