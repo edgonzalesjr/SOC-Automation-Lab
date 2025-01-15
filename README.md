@@ -109,14 +109,14 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/Bywe63L.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Shuffle for Ubuntu server.</b>
+<b>Shuffle for SSH server.</b>
 <br/>
 
 - Generate traffic
 <p align="center">
 <img src="https://imgur.com/IQw0LYs.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Windows client Mimikatz was executed.</b>
+<b>Windows 10 client Mimikatz was executed.</b>
 <br/>
 
 <p align="center">
