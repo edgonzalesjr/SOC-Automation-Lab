@@ -58,6 +58,7 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Simulates employee workstation.
   - Sysmon  
   - Wazuh agent (Forwards Sysmon logs)
+  - IP Address : 192.168.209.142
 - Ubuntu 22.04 LTS
   - On-prem server
   - Wazuh agent
