@@ -91,7 +91,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/fJbOWjx.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Ubuntu server connectivity with the Wazuh Manager.</b>
+<b>SSH server connectivity with the Wazuh Manager.</b>
 <br/>
 
 <p align="center">
