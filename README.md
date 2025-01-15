@@ -70,7 +70,8 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Perform SSH bruteforce attack.
   - IP Address : 192.168.0.202
 
-- Checking network connectivity on hosts
+## Practical Exercises
+
 <p align="center">
 <img src="https://imgur.com/YYx7MqU.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
