@@ -7,20 +7,17 @@ To develop and configure a comprehensive Security Operations Center automation e
 - Installation and Configuration
   - Installation of Sysmon on Windows 10 client, Wazuh, Shuffle and TheHive.
   - Troubleshooting of installation, setup and configuration issues.
-
 - Server Configuration and Connectivity
   - Configuring Wazuh, Shuffle, and TheHive.
   - Connecting Windows 10 client to Wazuh and verifying service status.
-
 - Telemetry Ingestion and Threat Detection
   - Configuring telemetry ingestion from Windows 10 client to Wazuh.
   - Setting up Sysmon and editing configuration files for log collection.
   - Creating custom alerts and managing detection for specific threats (e.g., Mimikatz).
   - Restarting services and verifying alert functionality.
-
 - Integration and Automation
   - Integrating Wazuh, TheHive and Shuffle for automated incident response.
-  - Automating alerts and notifications to analysts thru Email.
+  - Automating alerts and notifications to analyst thru Email.
   - Utilizing VirusTotal for hash and IP address reputation checks.
   - Configuring TheHive for case management.
   - Implementing real-time automated actions, such as IP blocking.
@@ -33,7 +30,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 - Shuffle. Automation for Security Orchestration Automation and Response.
 - VirusTotal. Analyzes suspicious files, hash, IP address for malware and malicious content using antivirus engines and website scanners.
 - Mimikatz. It extracts passwords stored in memory on Windows machine.
-- Email. Used to send notifications to analysts, prompting them to investigate incidents further.
+- Email. Used to send notifications to analyst, prompting to investigate incidents further.
 - Sysmon. Track and record system activity in the Windows event log.
 
 ## Lab Information
@@ -66,7 +63,6 @@ To develop and configure a comprehensive Security Operations Center automation e
   - Wazuh agent
   - SSH server installed
   - IP Address : 192.168.0.204
-
 - Attacker's machine
   - Perform SSH bruteforce attack.
   - IP Address : 192.168.0.202
@@ -195,17 +191,13 @@ To develop and configure a comprehensive Security Operations Center automation e
 ## Outcome
 
 - Comprehensive SOC Automation Setup
-  - Successful creation and integration of a SOC automation environment, including Wazuh for monitoring, automated workflows in Shuffle for alert management and incident response, and TheHive for case management.
- 
+  - Successful creation and integration of a SOC automation environment, including Wazuh for monitoring, automated workflows in Shuffle for alert management and incident response, and TheHive for case management. 
 - Practical Cybersecurity Skills
   - Hands-on experience in installing, configuring, and integrating various cybersecurity tools, enhancing proficiency in SOC operations.
-
 - Effective Threat Detection and Response
   - Ability to configure and utilize telemetry for monitoring, detect specific threats through custom alerts, and automate incident response actions.
-
 - Enhanced Cybersecurity Capabilities
-  - Proficiency in creating efficient workflows and automated responses, improving overall security posture and operational efficiency.
-
+  - Created efficient workflows and automated responses, improving overall security posture and operational efficiency.
 - Encountered
   - AWS EC2 Instance. There were cases where a shutdown was necessary, and the public IP address changed each time the system was restarted after a shutdown.
 
