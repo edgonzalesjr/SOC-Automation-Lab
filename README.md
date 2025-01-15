@@ -32,6 +32,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 - TheHive. A versatile security incident response tool, simplifies the creation, management, and analysis of security incidents.
 - Shuffle. Automation for Security Orchestration Automation and Response.
 - VirusTotal. Analyzes suspicious files, hash, IP address for malware and malicious content using antivirus engines and website scanners.
+- Mimikatz. It extracts passwords stored in memory on Windows machine.
 - Email. Used to send notifications to analysts, prompting them to investigate incidents further.
 - Sysmon. Track and record system activity in the Windows event log.
 
