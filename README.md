@@ -24,14 +24,15 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 ### Tools Used
 
-- AWS EC2. Provides scalable computing capacity for applications and workloads. It is utilized for hosting servers.
-- Wazuh. Offers security visibility into endpoints by monitoring their behavior and identifying threats, vulnerabilities, and anomalies.
-- TheHive. A versatile security incident response tool, simplifies the creation, management, and analysis of security incidents.
-- Shuffle. Automation for Security Orchestration Automation and Response.
-- VirusTotal. Analyzes suspicious files, hash, IP address for malware and malicious content using antivirus engines and website scanners.
-- Mimikatz. It extracts passwords stored in memory on Windows machine.
-- Email. Used to send notifications to analyst, prompting to investigate incidents further.
-- Sysmon. Track and record system activity in the Windows event log.
+- AWS EC2: Provides scalable computing capacity for applications and workloads. It is utilized for hosting servers.
+- Wazuh: Offers security visibility into endpoints by monitoring their behavior and identifying threats, vulnerabilities, and anomalies.
+- TheHive: A versatile security incident response tool, simplifies the creation, management, and analysis of security incidents.
+- Shuffle: Automation for Security Orchestration Automation and Response.
+- VirusTotal: Analyzes suspicious files, hash, IP address for malware and malicious content using antivirus engines and website scanners.
+- Mimikatz: It extracts passwords stored in memory on Windows machine.
+- Email: Used to send notifications to analyst, prompting to investigate incidents further.
+- Sysmon: Track and record system activity in the Windows event log.
+- Wazuh agent: Multi-platform that can be installed on the user’s endpoints and sends data to the Wazuh server securely.
 
 ## Lab Information
 
@@ -209,7 +210,7 @@ This project combines ideas and methods from various sources, such as the SOC Au
  - [Benjamin DELPY Mimikatz](https://github.com/gentilkiwi/mimikatz)
  - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
  - [AWS EC2](https://aws.amazon.com/ec2/)
- - [Wazuh](https://wazuh.com/)
+ - [Wazuh and Wazuh agent](https://wazuh.com/)
  - [TheHive](https://github.com/TheHive-Project/TheHive)
  - [Shuffle](https://shuffler.io/)
  - [VirusTotal](https://www.virustotal.com/gui/home/upload)
