@@ -156,13 +156,13 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/iCGRxKZ.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Shuffle on Mimikatz detection.</b>
+<b>Shuffle workflow on Mimikatz detection.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/CXZXLjh.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Shuffle on SSH Brute-force detection and response.</b>
+<b>Shuffle workflow on SSH Brute-force detection and response.</b>
 <br/>
 
 <p align="center">
