@@ -67,7 +67,7 @@ To develop and configure a comprehensive Security Operations Center automation e
   - IP Address : 192.168.0.204
 
 - Attacker's machine
-  - Perform SSH bruteforce attack using Hydra.
+  - Perform SSH bruteforce attack.
   - IP Address : 192.168.0.202
 
 - Checking network connectivity on hosts
@@ -212,7 +212,6 @@ To develop and configure a comprehensive Security Operations Center automation e
 - Sysmon config inspired by [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
 - SOC Automation Project Lab inspired by [MyDFIR](https://github.com/MyDFIR/SOC-Automation-Project)
 - Mimikatz from [Benjamin DELPY](https://github.com/gentilkiwi/mimikatz)
-- Hydra from [Van Hauser-THC](https://github.com/vanhauser-thc/thc-hydra)
 
 ## Disclaimer
 
