@@ -103,13 +103,13 @@ To develop and configure a comprehensive Security Operations Center automation e
 <p align="center">
 <img src="https://imgur.com/3omDcHi.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Shuffle for Windows 10 client.</b>
+<b>Shuffle workflow for Windows 10 client.</b>
 <br/>
 
 <p align="center">
 <img src="https://imgur.com/Bywe63L.png" height="90%" width="90%" alt="Device Specification"/>
 <br/>
-<b>Shuffle for SSH server.</b>
+<b>Shuffle workflow for SSH server.</b>
 <br/>
 
 - Generate traffic
