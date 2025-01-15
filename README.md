@@ -208,6 +208,11 @@ This project combines ideas and methods from various sources, such as the SOC Au
  - [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
  - [Benjamin DELPY Mimikatz](https://github.com/gentilkiwi/mimikatz)
  - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
+ - [AWS EC2](https://aws.amazon.com/ec2/)
+ - [Wazuh](https://wazuh.com/)
+ - [TheHive](https://github.com/TheHive-Project/TheHive)
+ - [Shuffle](https://shuffler.io/)
+ - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 ## Disclaimer
 
