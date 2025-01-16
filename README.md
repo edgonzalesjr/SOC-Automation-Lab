@@ -28,6 +28,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 - Wazuh: Offers security visibility into endpoints by monitoring their behavior and identifying threats, vulnerabilities, and anomalies.
 - TheHive: A versatile security incident response tool, simplifies the creation, management, and analysis of security incidents.
 - Shuffle: Automation for Security Orchestration Automation and Response.
+- VMWare Workstation: A Type 2 hypervisor runs on x64 Windows and Linux, allowing multiple virtual machines on one physical computer.
 - Ubuntu Server: Use to host the SSH server.
 - Windows 10 Eval: End-user workstation.
 - VirusTotal: Analyzes suspicious files, hash, IP address for malware and malicious content using antivirus engines and website scanners.
