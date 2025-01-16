@@ -216,9 +216,10 @@ This project combines ideas and methods from various sources, such as the SOC Au
  - [Wazuh and Wazuh agent](https://wazuh.com/)
  - [TheHive](https://github.com/TheHive-Project/TheHive)
  - [Shuffle](https://shuffler.io/)
- - [VirusTotal](https://www.virustotal.com/gui/home/upload)
+ - [VMWare Workstation](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion) 
  - [Ubuntu Server](https://ubuntu.com/download/server)
  - [Windows 10 Eval](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
+ - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 ## Disclaimer
 
