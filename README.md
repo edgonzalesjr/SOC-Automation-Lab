@@ -206,7 +206,7 @@ To develop and configure a comprehensive Security Operations Center automation e
 
 ## Acknowledgements
 
-This project combines ideas and methods from various sources, such as the SOC Automation Project Lab by MyDFIR, Sysmon config by Olaf Hartong, and my personal experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
+This project combines ideas and methods from various sources, such as the SOC Automation Project Lab by MyDFIR, Sysmon config by Olaf Hartong, and my IT experience. These resources provided the fundamental information and techniques, which were then modified in light of practical uses.
  - [MyDFIR](https://github.com/MyDFIR/SOC-Automation-Project)
  - [Olaf Hartong](https://github.com/olafhartong/sysmon-modular)
  - [Benjamin DELPY Mimikatz](https://github.com/gentilkiwi/mimikatz)
